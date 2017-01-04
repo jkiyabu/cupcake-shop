@@ -16,6 +16,9 @@ p.author {
    text-align: center;
  }
 
- img {
-   
+ body {
+   background-color: yellow;
+ }
+ p, ul{
+   font-size: 25px;
  }
